@@ -1,0 +1,201 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,UnitPrice,PaymentMethod,ShippingAddress,OrderStatus,DiscountApplied,TotalPrice
+1,97,25,2024-02-23,6,23.94,Bank Transfer,"49797 Spears Ford Suite 731, Austinfurt, NM 78062",Pending,6.87,143.64000000000001
+2,45,49,2024-05-21,8,63.26,Debit Card,"USNV Hernandez, FPO AP 97660",Shipped,6.49,506.08
+3,83,1,2024-02-20,1,57.05,Bank Transfer,"727 Sarah Mills Apt. 526, Hurleyton, AL 03116",Pending,3.38,57.05
+4,75,28,2024-01-16,9,56.47,Credit Card,"6270 Martinez Village Apt. 473, Williamsview, PA 32345",Pending,12.61,508.23
+5,11,1,2024-03-19,3,13.77,Cash on Delivery,"87329 Smith Stream Suite 265, Port Kelliland, GA 68792",Shipped,6.81,41.31
+6,74,14,2024-03-21,1,27.94,Bank Transfer,"97119 Heath Route, South Jenniferberg, DE 80356",Processed,16.93,27.94
+7,88,10,2024-03-21,2,95.27,PayPal,"USS Diaz, FPO AA 27308",Pending,18.11,190.54
+8,18,34,2024-01-25,4,16.07,Debit Card,"398 Steven Gardens Apt. 329, New Karen, MS 86973",Shipped,5.44,64.28
+9,82,12,2024-01-14,2,36.65,Bank Transfer,"951 Richard Mews Apt. 681, Armstrongview, IL 92436",Cancelled,5.43,73.3
+10,70,42,2024-04-05,1,61.96,PayPal,"63004 Carr Crest Suite 071, North Anthonyville, VT 27055",Processed,5.4,61.96
+11,55,43,2024-06-12,4,51.33,Cash on Delivery,"6238 Eric Squares, West Chloemouth, VA 17925",Delivered,9.46,205.32
+12,23,22,2024-01-05,8,99.49,PayPal,"79595 Robertson Path Apt. 195, Oliviamouth, DE 28727",Pending,0.35,795.92
+13,65,16,2024-03-09,5,99.19,Debit Card,"338 Cochran Dam Apt. 627, Amyland, NH 12565",Pending,1.5,495.95
+14,90,18,2024-01-27,6,29.17,PayPal,"58623 Kelley Ridges Suite 591, South Roberto, NC 55069",Delivered,2.97,175.02
+15,9,49,2024-02-22,3,94.45,PayPal,"5669 Fernandez Inlet Apt. 946, South Caitlinmouth, OK 25530",Delivered,8.6,283.35
+16,64,38,2024-05-19,7,10.23,Debit Card,"634 Ryan Course Apt. 361, Garciaville, AR 38980",Processed,2.76,71.61
+17,93,22,2024-03-21,2,64.72,Debit Card,"25266 Blake Keys, Lake Georgeburgh, FL 20107",Delivered,14.96,129.44
+18,75,18,2024-01-02,1,99.68,Debit Card,"505 Baker Underpass Apt. 619, North Matthewport, CA 83998",Returned,18.63,99.68
+19,70,7,2024-06-10,8,29.7,Debit Card,"63185 Medina Courts, New Brandi, LA 41130",Delivered,1.54,237.6
+20,66,46,2024-04-03,1,86.89,Credit Card,"42527 Jones Ways, Port Emilyview, CA 47772",Delivered,1.9,86.89
+21,73,1,2024-06-15,7,42.73,Bank Transfer,"90471 Timothy Spur, Tonyton, NH 18868",Delivered,15.29,299.10999999999996
+22,52,23,2024-05-21,1,11.33,Debit Card,"3202 White Estate Apt. 072, Lake Haileymouth, NY 54550",Processed,18.75,11.33
+23,65,50,2024-04-05,3,52.92,Debit Card,"8289 Martin Estates Apt. 006, Tylerbury, FL 10666",Processed,5.08,158.76
+24,91,35,2024-06-06,7,31.44,Cash on Delivery,"19283 Fowler Neck Apt. 718, East Crystal, SD 51891",Processed,11.84,220.08
+25,90,45,2024-03-16,6,54.58,Cash on Delivery,"11813 Lang Tunnel, Davidfurt, SC 53603",Returned,16.68,327.48
+26,6,5,2024-01-08,6,88.59,PayPal,"PSC 7292, Box 3838, APO AE 72108",Processed,17.42,531.54
+27,26,49,2024-01-03,1,93.45,Credit Card,"9342 Glenda Coves, Austinchester, FL 09802",Shipped,17.42,93.45
+28,38,32,2024-05-31,1,39.26,Bank Transfer,"7586 Jackson Ridges, West Matthewfurt, IA 34106",Shipped,0.55,39.26
+29,83,5,2024-04-13,5,83.82,Cash on Delivery,"5872 Danielle Rue Suite 287, Kimberg, MO 89759",Delivered,9.6,419.09999999999997
+30,18,41,2024-01-18,5,58.8,Cash on Delivery,"7967 James Villages Apt. 514, North Gloriamouth, TX 09496",Cancelled,4.57,294.0
+31,36,45,2024-02-04,7,57.75,Cash on Delivery,"39790 Ronald Dale, Rogersshire, AR 65709",Shipped,13.31,404.25
+32,94,14,2024-04-17,2,54.18,Debit Card,"930 Brian Village Suite 230, Dukeview, IL 25351",Pending,15.88,108.36
+33,64,30,2024-02-13,5,83.18,Debit Card,"3589 Fox Villages Apt. 461, New Brittany, MN 63056",Delivered,13.89,415.90000000000003
+34,4,28,2024-04-14,8,60.21,Credit Card,"PSC 4809, Box 0047, APO AE 73767",Returned,6.15,481.68
+35,63,47,2024-03-17,4,84.16,Cash on Delivery,"7417 Thomas Isle, Aliciastad, MT 58277",Delivered,17.29,336.64
+36,97,25,2024-01-08,7,88.83,PayPal,"72943 Berg Circles, Porterfurt, MS 99696",Shipped,11.34,621.81
+37,10,19,2024-04-30,5,48.43,Bank Transfer,"66617 Joshua Rue Suite 624, Yoderburgh, OK 10632",Delivered,1.08,242.15
+38,68,13,2024-06-01,4,63.14,Cash on Delivery,"22528 Smith Terrace, Zhangbury, SD 49417",Returned,19.14,252.56
+39,45,27,2024-03-26,5,16.64,Cash on Delivery,"39434 Craig Road Apt. 525, Abigailland, OH 07196",Cancelled,19.85,83.2
+40,79,12,2024-03-30,8,81.58,Credit Card,"8642 Krystal Place Suite 443, Danaburgh, TX 58503",Delivered,14.98,652.64
+41,21,1,2024-06-12,1,71.99,Debit Card,"Unit 7662 Box 1782, DPO AE 71427",Pending,17.2,71.99
+42,22,39,2024-04-14,9,20.26,Bank Transfer,"6491 Juan Course Apt. 357, Lake Nicholas, FL 17747",Shipped,6.1,182.34
+43,31,22,2024-06-02,9,53.65,PayPal,"92807 Andrea Avenue, Samanthabury, WV 11984",Shipped,9.93,482.84999999999997
+44,11,16,2024-02-15,5,87.96,Bank Transfer,"4127 Robertson Passage, Gallagherstad, OH 49236",Delivered,11.31,439.79999999999995
+45,41,14,2024-04-19,7,30.46,Cash on Delivery,"97226 Michael Mountains, East Jessicaside, OH 36601",Processed,2.7,213.22
+46,87,5,2024-03-31,3,37.38,Debit Card,"73902 Ross Meadow, Wellstown, SD 99604",Pending,9.5,112.14000000000001
+47,63,13,2024-02-11,8,31.21,PayPal,"49260 Johnston Stravenue, Port Alexander, ID 79846",Processed,17.35,249.68
+48,56,1,2024-02-19,9,44.03,Credit Card,"5106 Nicholas Station, Susanmouth, NC 05843",Pending,13.37,396.27
+49,60,4,2024-02-14,8,99.6,PayPal,"506 James Centers Apt. 598, Cruzberg, NM 63475",Pending,6.24,796.8
+50,14,27,2024-05-17,2,32.92,Cash on Delivery,"616 Danielle Junctions, Cannonville, AL 91570",Cancelled,3.33,65.84
+51,5,8,2024-02-11,7,96.73,Debit Card,"5913 Conrad Dale Suite 123, Wangchester, OK 56457",Delivered,8.92,677.11
+52,45,9,2024-02-21,1,52.1,Credit Card,"936 Yvonne Harbor Suite 847, East Juanburgh, NY 61024",Cancelled,12.17,52.1
+53,82,5,2024-04-08,7,73.03,PayPal,"97623 Justin Forge, North Seth, MN 83187",Cancelled,4.69,511.21000000000004
+54,75,21,2024-01-11,1,61.97,Cash on Delivery,"80756 Ross Wall, Port Jose, NY 88372",Returned,4.06,61.97
+55,58,8,2024-05-15,5,70.06,Debit Card,"783 Anna Islands Apt. 554, Davisfurt, ME 56048",Returned,19.64,350.3
+56,65,8,2024-04-13,7,96.53,Bank Transfer,"530 Jackson Trace, South Nataliefurt, NM 32342",Returned,18.91,675.71
+57,39,23,2024-05-05,7,21.31,Credit Card,"0301 Schneider Corners, Port Edwin, VA 13434",Pending,10.98,149.17
+58,56,34,2024-01-01,2,98.23,Credit Card,"7515 Paul Trail Suite 513, Port Christinaville, NJ 64304",Delivered,16.69,196.46
+59,9,15,2024-04-02,5,90.02,PayPal,"3168 Obrien Court, West John, NE 86031",Delivered,18.46,450.09999999999997
+60,92,21,2024-03-03,7,15.66,PayPal,"633 Deanna Groves Apt. 309, Rubiomouth, MS 32348",Returned,16.51,109.62
+61,47,36,2024-03-22,9,28.2,Bank Transfer,"62949 Sylvia Union Apt. 044, South James, WI 69192",Returned,10.92,253.79999999999998
+62,37,43,2024-02-26,3,56.19,Credit Card,"6200 Julie River Suite 343, Ramseystad, NH 75783",Returned,10.5,168.57
+63,63,21,2024-03-10,3,39.25,Bank Transfer,"2237 Ashley Pines, Lukestad, MO 55604",Cancelled,2.15,117.75
+64,8,45,2024-02-04,8,32.77,PayPal,"1571 Watson Lodge, Haileyfort, AR 17434",Cancelled,9.69,262.16
+65,47,38,2024-02-15,5,91.3,Bank Transfer,"174 Christian Common, North Abigailport, AZ 05701",Shipped,11.38,456.5
+66,65,13,2024-05-26,4,74.13,PayPal,"973 Melissa Islands Apt. 150, Jamesland, WA 72527",Delivered,9.68,296.52
+67,39,10,2024-01-26,5,91.15,PayPal,"PSC 1420, Box 1173, APO AE 72483",Shipped,14.38,455.75
+68,22,4,2024-05-31,8,45.08,Cash on Delivery,"385 Beasley Track Apt. 281, Port Thomasborough, CO 17898",Shipped,8.32,360.64
+69,93,36,2024-05-25,5,86.6,Debit Card,"88363 Anthony Road, Port Janethaven, SC 43579",Cancelled,10.28,433.0
+70,94,29,2024-01-25,3,78.49,PayPal,"173 Ryan Walks Suite 065, West Nicholas, KS 89270",Processed,15.45,235.46999999999997
+71,14,7,2024-02-22,5,72.89,Debit Card,"28550 Kelly Path Suite 214, South Laura, MA 59901",Processed,12.66,364.45
+72,72,5,2024-05-22,6,84.31,Credit Card,"6579 Harris Manors, Thomasborough, MA 31030",Cancelled,2.92,505.86
+73,39,21,2024-06-02,4,42.4,Bank Transfer,"338 Logan Villages Suite 006, East Zacharymouth, NY 92232",Shipped,5.65,169.6
+74,99,22,2024-05-01,2,54.56,Debit Card,"10410 Arthur Fort Apt. 375, North Alyssa, NC 28215",Returned,8.06,109.12
+75,99,48,2024-01-15,3,15.68,Debit Card,"5379 Williams Fields, Warrenchester, NE 93546",Processed,4.7,47.04
+76,57,4,2024-04-29,4,66.14,PayPal,"USNV Marshall, FPO AE 68967",Processed,16.53,264.56
+77,79,38,2024-02-10,7,76.62,Credit Card,"6829 Maria Loaf, Weaverview, WV 79362",Cancelled,18.67,536.34
+78,51,6,2024-04-28,3,26.23,Bank Transfer,"8266 Vaughn Lodge, Tamaratown, NH 33123",Pending,0.86,78.69
+79,49,32,2024-02-06,4,78.02,Bank Transfer,"28353 Hughes Springs Apt. 225, Smithland, MD 26123",Delivered,19.41,312.08
+80,43,43,2024-01-24,3,77.49,Cash on Delivery,"48345 Tracy Throughway Apt. 201, Port Christine, OH 14189",Cancelled,10.73,232.46999999999997
+81,24,42,2024-04-03,7,54.75,Credit Card,"45890 Angel Parks Suite 189, New James, RI 85680",Returned,19.56,383.25
+82,33,47,2024-03-31,4,15.77,Debit Card,"764 Williams Freeway, Kristopherland, MN 58414",Pending,4.87,63.08
+83,77,4,2024-03-15,1,71.38,PayPal,"0353 Spencer Crossroad, Randychester, AZ 94735",Processed,11.56,71.38
+84,2,41,2024-04-27,4,84.76,Cash on Delivery,"059 Stuart Via Suite 558, North Brookehaven, SD 23031",Cancelled,19.8,339.04
+85,59,9,2024-05-14,3,14.22,Cash on Delivery,"5632 Donald Ports Apt. 275, Melissamouth, IN 50723",Returned,3.54,42.660000000000004
+86,66,23,2024-06-07,6,10.51,Credit Card,"94456 Kristina Forks Suite 664, Jonathanborough, DE 69840",Returned,2.67,63.06
+87,1,35,2024-02-05,5,53.27,Bank Transfer,"27080 Lopez Bridge, Georgechester, CO 79928",Delivered,15.26,266.35
+88,9,49,2024-04-27,6,80.02,Cash on Delivery,"93478 Salazar Estates, Williamfurt, ME 39698",Processed,15.25,480.12
+89,35,29,2024-06-05,2,74.52,Cash on Delivery,"781 Villegas Falls Apt. 096, Ruthton, MI 71702",Delivered,5.77,149.04
+90,68,6,2024-05-25,4,84.67,Debit Card,"2032 Walker Freeway Apt. 120, Robertmouth, NY 31280",Cancelled,5.49,338.68
+91,91,2,2024-06-05,8,35.17,Credit Card,"467 Kevin Hollow, Sweeneymouth, WY 75750",Shipped,10.31,281.36
+92,6,11,2024-04-19,2,80.84,Cash on Delivery,"53944 Lee Fall, Nicholasmouth, RI 52349",Shipped,2.73,161.68
+93,43,26,2024-01-11,1,65.85,Debit Card,"268 Fred Lock Suite 895, South Brettshire, WI 04574",Returned,6.0,65.85
+94,98,6,2024-05-28,7,49.3,Bank Transfer,"9784 Kim Key Suite 055, Port Matthew, VT 55890",Returned,4.55,345.09999999999997
+95,30,4,2024-04-27,4,23.01,PayPal,"4003 Hughes Oval, Paulaborough, WV 65212",Returned,5.89,92.04
+96,1,37,2024-02-21,2,16.52,Debit Card,"319 Neal Tunnel, Lake Colleenborough, NE 16594",Pending,9.1,33.04
+97,61,50,2024-02-12,4,79.22,PayPal,"9307 Elliott Junctions Suite 842, Stephanieborough, TX 60266",Returned,4.64,316.88
+98,85,3,2024-03-03,3,15.92,Bank Transfer,"7678 Butler Falls, Rhodesburgh, HI 78433",Cancelled,9.58,47.76
+99,82,42,2024-02-28,5,86.32,Debit Card,"USCGC Campbell, FPO AA 42815",Cancelled,5.61,431.59999999999997
+100,8,4,2024-04-09,6,73.4,Bank Transfer,"1023 Thompson Mountains Apt. 362, Brownborough, ME 25913",Cancelled,17.31,440.40000000000003
+101,55,24,2024-01-04,2,71.24,Cash on Delivery,"399 Mary Point, New William, TX 04637",Cancelled,3.81,142.48
+102,41,13,2024-06-11,7,10.81,Cash on Delivery,"74848 Cardenas Forge Suite 090, Davisville, KS 39739",Processed,18.92,75.67
+103,100,38,2024-05-29,9,88.16,PayPal,"624 Jones Place Suite 904, North Amberborough, GA 77725",Cancelled,8.36,793.4399999999999
+104,91,19,2024-02-23,3,29.38,Cash on Delivery,"733 Stephanie Circles, Keithtown, NC 62260",Shipped,9.4,88.14
+105,2,30,2024-03-20,5,55.96,Bank Transfer,"67878 Ford Pike, South Leslieville, WV 28820",Processed,5.09,279.8
+106,85,14,2024-04-01,1,7.32,Bank Transfer,"093 Duran Extension Apt. 146, North Darlene, CT 81577",Delivered,8.92,7.32
+107,14,37,2024-06-02,6,95.59,PayPal,"330 Rodriguez Hollow Apt. 972, Toddmouth, NE 23866",Delivered,1.02,573.54
+108,75,5,2024-01-15,5,38.98,Cash on Delivery,"PSC 1084, Box 3117, APO AA 16942",Shipped,1.23,194.89999999999998
+109,100,23,2024-04-21,5,41.61,Cash on Delivery,"61764 Michael Fort Apt. 503, Fergusonshire, MO 64310",Returned,0.24,208.05
+110,43,6,2024-04-11,8,55.92,PayPal,"8621 Angela Locks, Mariaside, KS 92693",Processed,2.83,447.36
+111,20,1,2024-03-23,4,5.04,Credit Card,"18798 Hill Plains, East John, MN 74639",Pending,14.17,20.16
+112,31,2,2024-05-15,5,32.16,Cash on Delivery,"9844 Jessica Fort Apt. 590, Laurentown, MA 04094",Delivered,4.8,160.79999999999998
+113,23,15,2024-04-15,6,89.54,Credit Card,"694 Debra Motorway Suite 173, Juliaville, AZ 17626",Shipped,13.98,537.24
+114,8,12,2024-03-16,8,80.67,Debit Card,"8100 Rivera Roads, Curtisport, UT 28264",Cancelled,17.77,645.36
+115,33,44,2024-01-11,8,90.09,Cash on Delivery,"29123 Armstrong Garden Suite 693, Crystalside, NM 47166",Shipped,4.28,720.72
+116,54,6,2024-02-11,1,31.81,Credit Card,"800 Michelle Square Suite 603, South Matthewmouth, ND 15052",Shipped,0.71,31.81
+117,90,44,2024-06-15,6,61.21,Bank Transfer,"Unit 8650 Box 9992, DPO AA 01997",Pending,19.82,367.26
+118,77,44,2024-04-08,1,75.5,Cash on Delivery,"0523 Miller Manors Suite 555, North Joseberg, NH 06354",Returned,10.95,75.5
+119,99,2,2024-02-14,6,92.32,Cash on Delivery,"USS Young, FPO AA 98806",Returned,18.84,553.92
+120,74,19,2024-03-08,5,34.93,PayPal,"06120 Burns Ferry Suite 638, North Davidhaven, WV 24022",Processed,19.88,174.65
+121,3,4,2024-02-02,7,30.74,Cash on Delivery,"591 Stewart Knolls Apt. 685, Lake Bruce, RI 73100",Shipped,12.85,215.17999999999998
+122,27,17,2024-06-04,4,62.08,Debit Card,"5575 Kevin Cape, East Sarah, UT 58902",Pending,1.15,248.32
+123,64,32,2024-02-22,8,93.36,Bank Transfer,"967 Tina Lodge, Jimenezmouth, OR 45096",Returned,7.93,746.88
+124,43,12,2024-02-18,3,99.81,Debit Card,"7514 Jennifer Cliff Suite 406, North Tammy, ME 28650",Pending,13.23,299.43
+125,19,24,2024-04-03,7,21.57,Cash on Delivery,"722 Jennifer Path, West Michelle, DE 93240",Delivered,17.32,150.99
+126,40,45,2024-03-13,5,78.59,Cash on Delivery,"2656 Erin Pine, New Eileen, PA 87124",Processed,9.77,392.95000000000005
+127,31,7,2024-02-06,9,5.56,Bank Transfer,"8557 Pratt Road, Nicoleland, VT 93750",Delivered,16.65,50.04
+128,26,19,2024-06-16,1,98.09,Bank Transfer,"2088 Rachael Streets, Youngfort, NJ 94437",Returned,8.56,98.09
+129,53,22,2024-02-25,7,88.45,Debit Card,"0716 Kelly Viaduct, Christopherport, WI 64506",Cancelled,11.87,619.15
+130,59,16,2024-04-04,7,44.62,Debit Card,"338 Jennifer Bridge, North Karaborough, RI 97301",Shipped,14.21,312.34
+131,43,26,2024-06-08,5,96.78,Bank Transfer,"0276 Sydney Estates Suite 429, East Haleyborough, AR 93997",Delivered,15.11,483.9
+132,24,49,2024-03-08,5,5.8,Credit Card,"005 Scott Crescent, West Phillip, ME 09577",Delivered,15.5,29.0
+133,20,41,2024-04-23,4,76.88,Credit Card,"PSC 9997, Box 5950, APO AE 13641",Processed,15.36,307.52
+134,61,39,2024-06-01,1,85.38,PayPal,"671 Shannon Trail, Brandihaven, NM 99729",Delivered,10.99,85.38
+135,92,30,2024-03-09,1,51.07,PayPal,"7372 Nathaniel Forks, Hutchinsonton, WA 18188",Shipped,8.53,51.07
+136,68,29,2024-06-04,4,85.13,Cash on Delivery,"4418 Madison Spring, Lake Patriciamouth, NC 20327",Shipped,16.06,340.52
+137,87,3,2024-03-28,7,36.59,PayPal,"1327 Miller Inlet, South Heathertown, AK 54776",Cancelled,19.04,256.13
+138,99,45,2024-04-07,8,98.49,Credit Card,"374 Linda Ramp, New Jonathanstad, NE 82463",Cancelled,5.77,787.92
+139,43,23,2024-01-26,1,72.49,Debit Card,"6393 Donna Knolls, East Barbara, SC 82159",Cancelled,8.99,72.49
+140,57,15,2024-06-11,1,91.59,Credit Card,"73281 Martinez Neck Suite 189, Benderstad, OH 21695",Pending,11.85,91.59
+141,3,36,2024-03-02,4,47.7,PayPal,"84311 Karen Circle, West Richardview, GA 13295",Returned,7.03,190.8
+142,69,2,2024-06-06,8,74.09,PayPal,"98290 Williams Station, Smithborough, MI 38598",Processed,16.6,592.72
+143,35,48,2024-06-03,6,17.21,Bank Transfer,"Unit 3452 Box 1608, DPO AE 32368",Shipped,17.11,103.26
+144,66,25,2024-03-24,8,83.32,Bank Transfer,"6320 Tracey Gardens Apt. 855, Woodsborough, MS 09633",Cancelled,16.33,666.56
+145,72,22,2024-02-16,8,17.79,PayPal,"1995 Ashley Shore Apt. 797, Blackborough, GA 93854",Shipped,7.38,142.32
+146,5,29,2024-05-06,6,12.97,Debit Card,"305 Richmond Ways Suite 661, Kaylaville, ME 88355",Shipped,8.49,77.82000000000001
+147,27,3,2024-01-05,5,80.38,Credit Card,"68218 Michael Isle, Walkerfort, WY 73285",Processed,13.09,401.9
+148,12,37,2024-05-01,5,8.58,Debit Card,"3076 Walls Trace Suite 251, North Amyborough, ME 56997",Shipped,4.14,42.9
+149,77,49,2024-04-24,9,98.36,Bank Transfer,"PSC 1961, Box 6460, APO AE 64329",Shipped,1.99,885.24
+150,62,30,2024-02-13,7,66.64,Cash on Delivery,"35905 Benjamin Gateway Suite 907, Martinfurt, CO 32056",Pending,2.83,466.48
+151,9,49,2024-06-16,4,8.21,Cash on Delivery,"4816 David Fort, Meganton, VA 76029",Shipped,15.03,32.84
+152,66,30,2024-02-22,9,13.08,PayPal,"899 Andrea Forges Apt. 441, Williamland, SC 39772",Delivered,13.81,117.72
+153,46,9,2024-04-14,7,53.87,PayPal,"81919 Gabriel Junction, Larsonborough, NY 28860",Shipped,4.45,377.09
+154,53,20,2024-03-26,7,47.89,Credit Card,"91439 Phillips Trail, Ashleyfurt, IA 93465",Returned,18.18,335.23
+155,70,36,2024-04-06,8,99.07,Bank Transfer,"17508 Trevino Inlet, Kevinchester, UT 11243",Shipped,4.15,792.56
+156,93,14,2024-05-25,7,95.43,Credit Card,"28253 Romero Parkway Apt. 995, Lake David, AZ 99777",Processed,12.32,668.01
+157,94,14,2024-05-01,6,40.74,Cash on Delivery,"092 Jacqueline Crest, Taraview, VT 53085",Delivered,6.01,244.44
+158,19,1,2024-06-16,9,36.25,Debit Card,"14861 Miller Street Suite 007, Susanborough, CT 21129",Pending,4.04,326.25
+159,76,5,2024-04-23,6,49.6,Debit Card,"1691 Walls Centers Suite 765, East Tiffany, WI 99180",Shipped,1.83,297.6
+160,78,19,2024-03-09,3,82.33,Bank Transfer,"8801 Lambert Branch, Port Patricia, TN 61252",Shipped,18.74,246.99
+161,64,15,2024-05-19,5,56.2,Cash on Delivery,"76557 Gibson Passage Apt. 528, North Nancy, SC 60924",Cancelled,15.72,281.0
+162,97,33,2024-05-13,5,73.68,Credit Card,"4800 Warren Center, North Jeffside, WY 75620",Pending,19.02,368.40000000000003
+163,6,26,2024-03-29,4,94.09,Cash on Delivery,"420 Sarah Walk Apt. 780, East Catherine, UT 42610",Returned,13.42,376.36
+164,4,26,2024-03-19,4,12.46,Debit Card,"094 James Rapids Apt. 106, Waltersmouth, MT 55527",Shipped,6.29,49.84
+165,47,21,2024-03-10,7,60.54,Bank Transfer,"252 Smith Lock Suite 270, West Shawn, VA 15908",Cancelled,17.66,423.78
+166,7,36,2024-03-16,2,54.57,Debit Card,"95765 Angela Causeway, Timothytown, IA 43198",Returned,19.97,109.14
+167,27,41,2024-06-01,7,95.65,Cash on Delivery,"0759 Rodriguez Isle Apt. 699, North Blakebury, MO 49924",Delivered,5.91,669.5500000000001
+168,90,13,2024-02-16,4,23.15,PayPal,"59119 Michael Path Suite 836, Faithburgh, GA 36413",Shipped,16.12,92.6
+169,36,42,2024-05-03,9,91.66,Debit Card,"09533 Mayo Heights Apt. 644, Stevenberg, MT 29457",Cancelled,9.5,824.9399999999999
+170,11,23,2024-01-21,4,99.74,PayPal,"945 Berg Grove Suite 422, Angelicafurt, NJ 83016",Delivered,3.39,398.96
+171,70,12,2024-02-09,1,83.35,PayPal,"78411 Regina Square, West Dana, IA 22708",Pending,18.96,83.35
+172,35,25,2024-01-23,3,37.72,Cash on Delivery,"6961 Wallace Corner Suite 872, Sarahtown, AR 88161",Returned,14.15,113.16
+173,9,34,2024-06-10,3,36.15,Bank Transfer,"1902 Alexandra Loaf, Coleside, AL 16809",Pending,19.57,108.44999999999999
+174,22,28,2024-01-19,1,85.83,Bank Transfer,"4586 Lindsay Field, Lake Pamelaton, MI 95466",Pending,3.52,85.83
+175,65,8,2024-05-26,3,24.35,Credit Card,"004 Floyd Highway, Boylefort, NY 54267",Returned,6.28,73.05000000000001
+176,58,29,2024-05-13,1,87.46,Debit Card,"PSC 7051, Box 4947, APO AA 06746",Shipped,8.61,87.46
+177,29,24,2024-01-10,1,68.71,Bank Transfer,"PSC 8384, Box 6839, APO AA 20811",Delivered,0.26,68.71
+178,17,43,2024-04-29,7,7.48,Credit Card,"597 Brenda Course Apt. 532, East Alejandrostad, CA 33421",Delivered,3.31,52.36
+179,63,10,2024-03-10,6,48.82,Cash on Delivery,"PSC 8270, Box 9882, APO AA 30751",Cancelled,0.64,292.92
+180,22,33,2024-02-23,8,23.75,Cash on Delivery,"631 Laura Pines Suite 763, Port Alec, IA 34184",Returned,14.46,190.0
+181,31,4,2024-05-08,8,51.14,Debit Card,"163 Jeffrey Run Suite 894, Elizabethhaven, DC 46259",Returned,11.36,409.12
+182,99,5,2024-01-07,7,81.86,Credit Card,"3443 Marisa Circles, Murillostad, NY 09286",Shipped,3.48,573.02
+183,76,4,2024-06-11,1,6.71,PayPal,"234 Ryan Tunnel, Davismouth, MD 33977",Cancelled,0.52,6.71
+184,52,24,2024-03-12,8,59.58,Credit Card,"769 Michael Parkways Apt. 898, New Laurenburgh, GA 87919",Returned,5.07,476.64
+185,12,18,2024-06-05,7,88.33,Debit Card,"7079 Heather Locks Apt. 227, Hallstad, MD 08409",Pending,16.33,618.31
+186,55,17,2024-01-20,5,11.6,Credit Card,"3065 Price Drives, Jacksonbury, NM 01598",Pending,13.65,58.0
+187,66,27,2024-01-30,4,94.29,Credit Card,"7055 Timothy Orchard Suite 259, New Michaelfurt, OK 66126",Pending,9.72,377.16
+188,99,39,2024-05-12,7,81.93,Debit Card,"064 Alyssa Vista Suite 171, Barberhaven, CT 74094",Processed,18.37,573.51
+189,43,44,2024-05-26,9,42.58,Credit Card,"003 Jill Run, Smithshire, KS 73905",Processed,18.22,383.21999999999997
+190,46,17,2024-01-31,9,42.2,PayPal,"177 Michelle Ford, Briannaport, AR 46588",Returned,12.41,379.8
+191,44,17,2024-01-19,6,44.04,Debit Card,"8715 Mccarthy Dale, Lake Christopher, OK 12786",Pending,19.54,264.24
+192,56,32,2024-01-06,9,65.9,Debit Card,"6384 Hampton Land, South Stevenside, AK 04988",Shipped,10.86,593.1
+193,40,3,2024-05-17,4,27.26,Bank Transfer,"Unit 8639 Box 4579, DPO AP 76853",Cancelled,19.54,109.04
+194,25,10,2024-01-08,1,88.71,Cash on Delivery,"946 William Hill Apt. 981, Schneiderhaven, NE 68593",Delivered,14.69,88.71
+195,56,43,2024-01-28,5,40.92,Bank Transfer,"1916 John Lane Suite 186, South Virginiaborough, OR 29732",Delivered,15.46,204.60000000000002
+196,55,1,2024-04-17,6,99.64,PayPal,"97752 Carey Villages, Pamelamouth, OH 17553",Shipped,8.93,597.84
+197,49,10,2024-01-24,5,41.95,Credit Card,"363 Gregory Mountains Suite 142, South Jessica, NV 11622",Processed,11.04,209.75
+198,73,27,2024-02-17,9,52.36,Credit Card,"9200 Sharon Squares Suite 119, Port Juan, NE 36572",Processed,1.55,471.24
+199,73,4,2024-05-31,5,7.21,Cash on Delivery,"208 Anthony Summit, Port Joseberg, LA 77805",Returned,13.05,36.05
+200,100,39,2024-01-01,3,45.16,Cash on Delivery,"14440 Pacheco Dam Suite 708, East Jacobhaven, LA 96654",Delivered,14.37,135.48
